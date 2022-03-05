@@ -1851,7 +1851,7 @@ msgid "DECORATION SET"
 msgstr "ZESTAW DEKORACJI"
 
 msgid "Current setting"
-msgstr ""
+msgstr "Obecne ustawienia"
 
 msgid "DEFAULT GLOBAL SETTINGS"
 msgstr "DOMYŚLNE USTAWIENIA GLOBALNE"
@@ -1959,7 +1959,7 @@ msgid "IF NOT EMPTY"
 msgstr "JEŚLI NIE PUSTY"
 
 msgid "Display save state manager before launching a game."
-msgstr ""
+msgstr "Wyświetlanie menedżera stanu zapisu przed uruchomieniem gry."
 
 msgid "PER SYSTEM ADVANCED CONFIGURATION"
 msgstr "ZAAWANSOWANA KONFIGURACJA DLA SYSTEMU"
@@ -2407,7 +2407,7 @@ msgid "Kid"
 msgstr "Dziecka"
 
 msgid "Basic"
-msgstr ""
+msgstr "Podstawowy"
 
 msgid "Released"
 msgstr "Opublikowana"
@@ -2432,16 +2432,16 @@ msgid "GAME OPTIONS"
 msgstr "OPCJE GRY"
 
 msgid "SAVE STATES (HOLD)"
-msgstr ""
+msgstr "STAN GRY (PRZYTRZYMAJ)"
 
 msgid "GAME OPTIONS (HOLD)"
-msgstr ""
+msgstr "OPCJE GRY (PRZYTRZYMAJ)"
 
 msgid "FAVORITE"
 msgstr "ULUBIONE"
 
 msgid "RANDOM (HOLD)"
-msgstr ""
+msgstr "LOSOWO (PRZYTRZYMAJ)"
 
 msgid ""
 "A valid account is required. Please register an account on https://"
